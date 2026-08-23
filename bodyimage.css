@@ -1,0 +1,42 @@
+
+
+/* 😉Begining of Homepage Image */
+
+
+/* Showcase */
+#frontimg1 {
+background:url('./frontimg1.webp') no-repeat;
+width: calc(var(--global-image-width)*1.0);
+    height: calc(var(--global-image-height)*1.0);
+background-size: 100% 100%;
+background-color: rgba(7,31.33,50.66,0.8);
+border-radius:5vw;
+}
+
+/* Showcase */
+#frontimg2 {
+background:url('./frontimg2.webp') no-repeat;
+width: calc(var(--global-image-width)*1.0);
+    height: calc(var(--global-image-height)*1.0);
+background-size: 100% 100%;
+background-color: rgba(7,31.33,50.66,0.8);
+border-radius:5vw;
+}
+
+
+
+/* Showcase */
+#frontimg3 {
+background:url('./frontimg3.webp') no-repeat;
+width: calc(var(--global-image-width)*1.0);
+    height: calc(var(--global-image-height)*1.0);
+background-size: 100% 100%;
+background-color: rgba(7,31.33,50.66,0.8);
+border-radius:5vw;
+}
+
+
+
+/* 😉End of Homepage Image */
+
+
